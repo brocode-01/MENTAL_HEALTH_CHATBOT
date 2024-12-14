@@ -195,7 +195,4 @@ To optimize the response time of your FastAPI application, consider the followin
 - Optimize model loading and prediction times.
 - Deploy using a production-ready server like Gunicorn with Uvicorn workers.
 
-## Contact
-
-For any questions or issues, please contact Manav Gora 🙋🏻‍♂️ at manavgora@gmail.com 📧
 
